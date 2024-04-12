@@ -1,0 +1,864 @@
+{
+    "dummy_card_id":1000780,
+    "friend_character":{
+       "id":0,
+       "card_id":1023111,
+       "exp":30000000,
+       "skill_lv":20,
+       "is_favorite":false,
+       "is_released_potential":true,
+       "released_rate":100.0,
+       "optimal_awakening_step":null,
+       "awakenings":[
+          
+       ],
+       "unlocked_square_statuses":[
+          0,
+          0,
+          0,
+          0
+       ],
+       "created_at":1620655683,
+       "card_decoration_id":null,
+       "potential_parameters":[
+          
+       ],
+       "equipment_skill_items":[
+          
+       ],
+       "link_skill_lvs":[
+          
+       ]
+    },
+    "missions":[
+       
+    ],
+    "sugoroku":{
+       "dice":{
+          "nums":[
+             {
+                "num":1,
+                "weight":0
+             },
+             {
+                "num":2,
+                "weight":0
+             },
+             {
+                "num":3,
+                "weight":0
+             },
+             {
+                "num":4,
+                "weight":0
+             },
+             {
+                "num":5,
+                "weight":0
+             },
+             {
+                "num":6,
+                "weight":100
+             }
+          ]
+       },
+       "events":{
+          "0":{
+             "content":{
+                "script_id":0
+             },
+             "type":501
+          },
+          "3":{
+             "content":{
+                "after_script_id":0,
+                "battle_info":[
+                   {
+                      "after_script_id":2592014,
+                      "background_id":1,
+                      "before_script_id":null,
+                      "bgm_id":1011107,
+                      "charge_limit":0,
+                      "charge_limit_script_id":null,
+                      "round_id":10117300
+                   },
+                   {
+                      "after_script_id":null,
+                      "background_id":1,
+                      "before_script_id":null,
+                      "bgm_id":1011107,
+                      "charge_limit":0,
+                      "charge_limit_script_id":null,
+                      "round_id":10117301
+                   },
+                   {
+                      "after_script_id":null,
+                      "background_id":1,
+                      "before_script_id":null,
+                      "bgm_id":1011107,
+                      "charge_limit":0,
+                      "charge_limit_script_id":null,
+                      "round_id":10117302
+                   },
+                   {
+                      "after_script_id":2592012,
+                      "background_id":1,
+                      "before_script_id":null,
+                      "bgm_id":1011107,
+                      "charge_limit":0,
+                      "charge_limit_script_id":null,
+                      "round_id":10117303
+                   },
+               {
+
+"round_id": 10117304,
+
+ "before_script_id": null,
+
+ "after_script_id": null,
+
+ "background_id": 107,
+
+ "bgm_id": 71,
+
+ "charge_limit": 0,
+
+ "charge_limit_script_id": null,
+
+ "trigger": {
+
+"initial_remaining_charge": 3,
+
+ "battle_round_change_routes": [
+
+
+{
+
+"battle_round_condition_set_id": 3003,
+
+ "priority": 0,
+
+ "battle_round_num": 6,
+
+ "inherit_puzzle_ball_type": 1,
+
+ "inherit_enemy_hp_type": 1,
+
+ "is_show_ko": false,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null},
+
+ {
+
+"battle_round_condition_set_id": 1000,
+
+ "priority": 10,
+
+ "battle_round_num": 0,
+
+ "inherit_puzzle_ball_type": 0,
+
+ "inherit_enemy_hp_type": 0,
+
+ "is_show_ko": true,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null}
+
+],
+
+ "trigger_gauge_view": {
+
+"is_gauge_visible": false,
+
+ "is_charge_count_visible": true,
+
+ "bar_main": null,
+
+ "bar_until_end_of_turn": null,
+
+ "normal_icon_effect_id": null,
+
+ "max_icon_effect_id": null,
+
+ "max_gauge_effect_id": null
+ }
+ }
+ },
+               {
+
+"round_id": 10117305,
+
+ "before_script_id": null,
+
+ "after_script_id": null,
+
+ "background_id": 107,
+
+ "bgm_id": 71,
+
+ "charge_limit": 0,
+
+ "charge_limit_script_id": null,
+
+ "trigger": {
+
+"initial_remaining_charge": 3,
+
+ "battle_round_change_routes": [
+
+
+{
+
+"battle_round_condition_set_id": 3003,
+
+ "priority": 0,
+
+ "battle_round_num": 7,
+
+ "inherit_puzzle_ball_type": 1,
+
+ "inherit_enemy_hp_type": 1,
+
+ "is_show_ko": false,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null},
+
+ {
+
+"battle_round_condition_set_id": 1000,
+
+ "priority": 10,
+
+ "battle_round_num": 0,
+
+ "inherit_puzzle_ball_type": 0,
+
+ "inherit_enemy_hp_type": 0,
+
+ "is_show_ko": true,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null}
+
+],
+
+ "trigger_gauge_view": {
+
+"is_gauge_visible": false,
+
+ "is_charge_count_visible": true,
+
+ "bar_main": null,
+
+ "bar_until_end_of_turn": null,
+
+ "normal_icon_effect_id": null,
+
+ "max_icon_effect_id": null,
+
+ "max_gauge_effect_id": null
+ }
+ }
+ },
+               {
+
+"round_id": 10117306,
+
+ "before_script_id": null,
+
+ "after_script_id": null,
+
+ "background_id": 107,
+
+ "bgm_id": 71,
+
+ "charge_limit": 0,
+
+ "charge_limit_script_id": null,
+
+ "trigger": {
+
+"initial_remaining_charge": 3,
+
+ "battle_round_change_routes": [
+
+
+{
+
+"battle_round_condition_set_id": 3003,
+
+ "priority": 0,
+
+ "battle_round_num": 8,
+
+ "inherit_puzzle_ball_type": 1,
+
+ "inherit_enemy_hp_type": 1,
+
+ "is_show_ko": false,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null},
+
+ {
+
+"battle_round_condition_set_id": 1000,
+
+ "priority": 10,
+
+ "battle_round_num": 0,
+
+ "inherit_puzzle_ball_type": 0,
+
+ "inherit_enemy_hp_type": 0,
+
+ "is_show_ko": true,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null}
+
+],
+
+ "trigger_gauge_view": {
+
+"is_gauge_visible": false,
+
+ "is_charge_count_visible": true,
+
+ "bar_main": null,
+
+ "bar_until_end_of_turn": null,
+
+ "normal_icon_effect_id": null,
+
+ "max_icon_effect_id": null,
+
+ "max_gauge_effect_id": null
+ }
+ }
+ },
+ {
+
+"round_id": 10117307,
+
+ "before_script_id": null,
+
+ "after_script_id": null,
+
+ "background_id": 107,
+
+ "bgm_id": 71,
+
+ "charge_limit": 0,
+
+ "charge_limit_script_id": null,
+
+ "trigger": {
+
+"initial_remaining_charge": 3,
+
+ "battle_round_change_routes": [
+
+
+{
+
+"battle_round_condition_set_id": 3003,
+
+ "priority": 0,
+
+ "battle_round_num": 9,
+
+ "inherit_puzzle_ball_type": 1,
+
+ "inherit_enemy_hp_type": 1,
+
+ "is_show_ko": false,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null},
+
+ {
+
+"battle_round_condition_set_id": 1000,
+
+ "priority": 10,
+
+ "battle_round_num": 0,
+
+ "inherit_puzzle_ball_type": 0,
+
+ "inherit_enemy_hp_type": 0,
+
+ "is_show_ko": true,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null}
+
+],
+
+ "trigger_gauge_view": {
+
+"is_gauge_visible": false,
+
+ "is_charge_count_visible": true,
+
+ "bar_main": null,
+
+ "bar_until_end_of_turn": null,
+
+ "normal_icon_effect_id": null,
+
+ "max_icon_effect_id": null,
+
+ "max_gauge_effect_id": null
+ }
+ }
+ },
+ {
+
+"round_id": 10117308,
+
+ "before_script_id": null,
+
+ "after_script_id": null,
+
+ "background_id": 107,
+
+ "bgm_id": 71,
+
+ "charge_limit": 0,
+
+ "charge_limit_script_id": null,
+
+ "trigger": {
+
+"initial_remaining_charge": 3,
+
+ "battle_round_change_routes": [
+
+
+{
+
+"battle_round_condition_set_id": 3003,
+
+ "priority": 0,
+
+ "battle_round_num": 5,
+
+ "inherit_puzzle_ball_type": 1,
+
+ "inherit_enemy_hp_type": 1,
+
+ "is_show_ko": false,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null},
+
+ {
+
+"battle_round_condition_set_id": 1000,
+
+ "priority": 10,
+
+ "battle_round_num": 0,
+
+ "inherit_puzzle_ball_type": 0,
+
+ "inherit_enemy_hp_type": 0,
+
+ "is_show_ko": true,
+
+ "script_id_first_time": null,
+
+ "script_id_second_or_later": null}
+
+],
+
+ "trigger_gauge_view": {
+
+"is_gauge_visible": false,
+
+ "is_charge_count_visible": true,
+
+ "bar_main": null,
+
+ "bar_until_end_of_turn": null,
+
+ "normal_icon_effect_id": null,
+
+ "max_icon_effect_id": null,
+
+ "max_gauge_effect_id": null
+ }
+ }
+ },
+                ],            
+                "battle_round_condition_sets":[
+                {
+"id": 1000,
+"conditions": 
+[
+{
+"is_or_branch": false,
+"branch_type": 0,
+"branch_params": 
+[
+null,
+null,
+null
+]
+}
+]
+},
+{
+
+"id": 3003,
+ "conditions": [
+{
+"is_or_branch": false,
+ "branch_type": 3,
+ "branch_params":
+ [
+3,
+null,
+null
+]
+}
+]
+}   
+                ],
+                "before_script_id":0,
+                "enemies":[
+                   [
+                      {
+                         "ai_type":4,
+                         "attack":120333,
+                         "card_id":1018231, 
+                         "defence":20000,
+                         "enemy_skill_ids":[
+                            9,
+                            25550,
+                            10118000,
+                            3960
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":1,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":5111333,
+                         "is_finish_special_only":false,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":6,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],           
+                      [
+                      {
+                         "ai_type":2,
+                         "attack":130000,
+                         "card_id":1016021,
+                         "defence":77000,
+                         "enemy_skill_ids":[
+                            13,
+                            2550,
+                            7460,
+                            610,
+                            3960
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":5,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":55000000,
+                         "is_finish_special_only":false,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":10,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                   [
+                      {
+                         "ai_type":3,
+                         "attack":185555,
+                         "card_id":1005031, 
+                         "defence":120333,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           3960
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":7,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":145888444,
+                         "is_finish_special_only":false,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":14,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                   [
+                      {
+                         "ai_type":4,
+                         "attack":190456,
+                         "card_id":1016031, 
+                         "defence":134435,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           17300,
+                           3960,
+                           1000
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":9,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":174000000,
+                         "is_finish_special_only":false,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":8,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                   [
+                      {
+                         "ai_type":808080,
+                         "attack":380777,
+                         "card_id":10117071, 
+                         "defence":176987,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           17300,
+                           3960,
+                           60023,
+                           94016,
+                           5350,
+                           1750,
+                           8,
+                           5240
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":10,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":280000000,
+                         "is_finish_special_only":true,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":12,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                [
+                      {
+                         "ai_type":808080,
+                         "attack":380777,
+                         "card_id":20117071, 
+                         "defence":176987,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           17300,
+                           3960,
+                           60023,
+                           94016,
+                           5350,
+                           1750,
+                           8,
+                           5240
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":10,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":280000000,
+                         "is_finish_special_only":true,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":12,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                [
+                      {
+                         "ai_type":808080,
+                         "attack":380777,
+                         "card_id":30117071, 
+                         "defence":176987,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           17300,
+                           3960,
+                           60023,
+                           94016,
+                           5350,
+                           1750,
+                           8,
+                           5240
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":10,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":280000000,
+                         "is_finish_special_only":true,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":12,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                               [
+                      {
+                         "ai_type":808080,
+                         "attack":380777,
+                         "card_id":50117071, 
+                         "defence":176987,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           17300,
+                           3960,
+                           60023,
+                           94016,
+                           5350,
+                           1750,
+                           8,
+                           5240
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":10,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":280000000,
+                         "is_finish_special_only":true,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":12,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                               [
+                      {
+                         "ai_type":808080,
+                         "attack":380777,
+                         "card_id":60117071, 
+                         "defence":176987,
+                         "enemy_skill_ids":[
+                           12,
+                           2550, 
+                           7450,
+                           7460,
+                           610,
+                           17300,
+                           3960,
+                           60023,
+                           94016,
+                           5350,
+                           1750,
+                           8,
+                           5240
+                         ],
+                         "exp":0,
+                         "extra_hp_gauges_count":10,
+                         "finish_special_inform_hp":0,
+                         "first_turn":0,
+                         "hp":280000000,
+                         "is_finish_special_only":true,
+                         "is_necessary_to_defeat":true,
+                         "multi_atk_num":12,
+                         "turn":0,
+                         "zeni":0
+                      }
+                   ],
+                   ],
+                "link_skill_lv_up":[]
+             },
+             "type":301
+          },
+          "4":{
+             "content":{
+                "script_id":0
+             },
+             "type":502
+          }
+       },
+       "first_focus_step":3,
+       "map":"592_001"
+    },
+    "token":"k3s1l/IryFEkRCO1Yr/0aA==",
+    "user":{
+       "id":1468412667,
+       "name":"\u30f4\u30a3\u30aa\u30e9",
+       "is_ondemand":true,
+       "rank":204,
+       "exp":15790133,
+       "act":118,
+       "boost_point":0,
+       "act_max":118,
+       "act_at":1618197591,
+       "boost_at":0,
+       "wallpaper_item_id":0,
+       "card_capacity":20,
+       "total_card_capacity":210,
+       "team_cost_capacity":359,
+       "friends_capacity":100,
+       "support_item_capacity":3,
+       "is_support_item_capacity_extended":false,
+       "battle_energy":{
+          "energy":0,
+          "recover_point_with_stone":1,
+          "battle_at":0,
+          "seconds_per_cure":10800,
+          "max_recovery_count":5,
+          "recovered_count":0
+       },
+       "zeni":64138429,
+       "gasha_point":76050,
+       "exchange_point":300,
+       "stone":1622,
+       "tutorial":{
+          "is_finished":false
+       },
+       "is_potential_releaseable":false,
+       "processed_at":1620655683
+    }
+ }
